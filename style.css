@@ -1,0 +1,48 @@
+
+body {
+    background-color: #113843;
+}
+#header {
+    font-family:'Times New Roman', Times, serif;
+    color:aliceblue;
+    
+    text-align: center;
+}
+#container {
+    
+    height:110px;
+    margin:10px;
+    background-color: #5AB6CF;
+    text-align: center;
+    
+}
+#phoneNumber {
+    width:50%;
+    font-size: 30px;
+    height:40px;
+    border: 3px solid green;
+    position: relative;
+    top:10%;
+    left:67px;
+}
+#submite {
+    width:150px;
+    background-color:blueviolet;
+    color:antiquewhite;
+    position: relative;
+    top:58px;
+    right:88px;
+    font-size: 30px;
+}
+#submite:hover{
+    background-color: darkgoldenrod;
+}
+#checker {
+   border-top-left-radius: 100%;
+   border-top-right-radius: 50%;
+   border-bottom-right-radius:20%;
+    border-width: 30%;
+    padding:70px;
+    font-size: 55px;
+    text-align: center;
+}
